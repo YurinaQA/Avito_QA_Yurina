@@ -1,4 +1,6 @@
 # Default ignored files
 /shelf/
-/workspace.xml
-Yurina_Avito_QA.iml
+.idea/
+*.iml
+venv/
+_pycache_
