@@ -1,10 +1,10 @@
 Чтобы создать скриншоты счетчиков в десктопной версии веб-страницы, следуйте приведенным ниже инструкциям:
 
-1. Скопируйте репозиторий на свой локальный компьютер
-2. Скачайте и установите профессиональный редактор кода [Intellij Idea Community Version](https://www.jetbrains.com/idea/download/?section=windows)
-3. Откройте скаченный репозиторий в программе редактор кода Intellij Idea Community Version
-4. Установите библиотеку Playwright с помощью команды 'pip install pytest-playwright' в Terminale(Alt+F12)
-5. Запустите автоматизированные тесты выбрав соответствующий:
+1. Скачайте и установите профессиональный редактор кода [Intellij Idea Community Version](https://www.jetbrains.com/idea/download/?section=windows)
+2. Скопируйте репозиторий на свой локальный компьютер с помощью команды 'git clone https://github.com/YurinaQA/Avito_QA_Yurina'
+3. 
+5. Установите библиотеку Playwright с помощью команды 'pip install pytest-playwright' в Terminale(Alt+F12)
+6. Запустите автоматизированные тесты выбрав соответствующий:
 - 'test1.py' : для запуска теста для счетчика CO2
 - 'test2.py' : для запуска теста для сохраненного объема воды
 - 'test3.py' : для запуска теста для сэкономленной электроэнергии
