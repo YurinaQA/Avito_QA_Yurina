@@ -2,5 +2,3 @@
 /shelf/
 .idea/
 *.iml
-venv/
-_pycache_
